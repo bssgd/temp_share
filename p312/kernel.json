@@ -1,0 +1,14 @@
+{
+    "argv": [
+        "/Users/karlzhang/miniforge3/envs/p312/bin/python",
+        "-m",
+        "ipykernel_launcher",
+        "-f",
+        "{connection_file}"
+    ],
+    "display_name": "p312",
+    "language": "python",
+    "metadata": {
+        "debugger": true
+    }
+}
