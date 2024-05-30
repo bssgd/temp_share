@@ -1,0 +1,21 @@
+name: p311i
+channels:
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2024.2.2
+  - libexpat=2.6.2
+  - libffi=3.4.2
+  - libsqlite=3.45.3
+  - libzlib=1.2.13
+  - ncurses=6.5
+  - openssl=3.3.0
+  - pip=24.0
+  - python=3.11.9
+  - readline=8.2
+  - setuptools=70.0.0
+  - tk=8.6.13
+  - tzdata=2024a
+  - wheel=0.43.0
+  - xz=5.2.6
+prefix: /Users/karlzhang/miniforge3/envs/p311i
